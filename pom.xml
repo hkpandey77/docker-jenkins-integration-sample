@@ -12,6 +12,6 @@
             docker-jenkins-integration-sample
         </finalName>
     </build>
-    <url>http://maven.apache.org</url>
+    <url>https://maven.apache.org</url>
 
 </project>
